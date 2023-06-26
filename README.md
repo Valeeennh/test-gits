@@ -1,4 +1,4 @@
-Penjelasan:
+Penjelasan test3:
 
 1.Program menggunakan variabel count untuk menghitung jumlah karakter braket buka ('(').
 2.Pada setiap karakter dalam string input, jika karakter adalah braket buka ('('), count akan ditambahkan.
